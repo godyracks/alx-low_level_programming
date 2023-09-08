@@ -5,9 +5,7 @@
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [License](#license)
+
 
 ## Project Description
 
@@ -28,11 +26,11 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/GodyRacks/alx-low_level_programming.git
-##2.cd 0x0C-more-malloc-free
+-2.cd 0x0C-more-malloc-free
 
-##3.gcc -Wall -Werror -Wextra -pedantic *.c -o your_program_name
+-3.gcc -Wall -Werror -Wextra -pedantic *.c -o your_program_name
 
-##4. Usage:
+-4. Usage:
 ./your_program_name
 
    
