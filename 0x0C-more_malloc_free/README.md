@@ -27,4 +27,4 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/GodyRacks/alx-low_level_programming/0x0C-more_malloc_free.git
+   git clone https://github.com/GodyRacks/alx-low_level_programming.git
