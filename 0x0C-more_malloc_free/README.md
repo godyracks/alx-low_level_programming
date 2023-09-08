@@ -28,9 +28,11 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/GodyRacks/alx-low_level_programming.git
-2.cd 0x0C-more-malloc-free
-3.gcc -Wall -Werror -Wextra -pedantic *.c -o your_program_name
-4. Usage:
+##2.cd 0x0C-more-malloc-free
+
+##3.gcc -Wall -Werror -Wextra -pedantic *.c -o your_program_name
+
+##4. Usage:
 ./your_program_name
 
    
